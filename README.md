@@ -19,26 +19,19 @@
 ### ⚒️ Tech Stack
 
 - **Languages:** C++, Python, Java  
-- **ML & Data:** scikit-learn, NumPy, Pandas, Matplotlib  
+- **ML & Data:** PyTorch, NumPy, Pandas, Matplotlib  
 - **Web:** HTML, CSS, JavaScript  
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-agarwal&show_icons=true&theme=radical" alt="Dhruv's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-agarwal&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 📫 Let’s Connect!
 
 - 📧 Email: agarwaldhruv71@gmail.com  
-- 💼 LinkedIn: [Dhruv Agarwal]([https://www.linkedin.com/in/dhruv-agarwal](https://www.linkedin.com/in/dhruv-agarwal-586564262/))  
+- 💼 LinkedIn: [Dhruv Agarwal](https://www.linkedin.com/in/dhruv-agarwal](https://www.linkedin.com/in/dhruv-agarwal-586564262/)  
 
 ---
 
