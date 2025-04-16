@@ -31,7 +31,7 @@
 ### 📫 Let’s Connect!
 
 - 📧 Email: agarwaldhruv71@gmail.com  
-- 💼 LinkedIn: [Dhruv Agarwal](https://www.linkedin.com/in/dhruv-agarwal](https://www.linkedin.com/in/dhruv-agarwal-586564262/)  
+- 💼 LinkedIn: [Dhruv Agarwal](https://www.linkedin.com/in/dhruv-agarwal-586564262/)  
 
 ---
 
