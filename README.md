@@ -6,65 +6,65 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvag710&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvag710" />
+  <img src="https://komarev.com/ghpvc/?username=dhruvag710&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 Who Am I?
 
-- 🎓 B.Tech student at **IIIT Nagpur**, passionate about tech and innovation  
-- 💻 Obsessed with **Data Structures & Algorithms**  
-- 🤖 Exploring **Machine Learning**, **LLMs**, and **NLP**  
-- 🛠️ Builder at heart – I love solving real-world problems using tech  
-- 🤝 Looking to connect and collaborate on exciting ideas!
-
----
-
-### ⚒️ Tech Stack
-
-- **Languages:** C++, Python, Java  
-- **ML & Data:** PyTorch, NumPy, Pandas, Matplotlib  
-- **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebooks, Postman  
-- **APIs & Cloud:** Gmail API, OpenRouter API, OAuth2, Google Cloud Console
+- 🎓 B.Tech student @ **IIIT Nagpur**, fueled by curiosity  
+- 💻 Love solving problems with **DSA** and building **AI-driven tools**  
+- 🤖 Currently working on projects in **LLMs**, **NLP**, and **ML-powered productivity tools**  
+- 🔧 Passionate about turning messy ideas into working code  
+- ✨ Always learning, always building!
 
 ---
 
-### 🚀 Projects
+### ⚙️ Tech Arsenal
 
-#### 📬 **maileazy.ai – Smart Mail Assistant**
-> ✉️ An AI-powered Gmail assistant that turns email chaos into organized productivity!
-
-**Features:**
-- 📁 Auto-categorizes emails into smart folders: `Meetings`, `Internships`, `Academic`, `Research`, etc.
-- 🏷️ Tags emails by **priority**: `HIGH`, `MEDIUM`, `LOW`
-- 📌 Extracts **deadlines** and **actionable to-dos**
-- 🔐 Secure OAuth2 Gmail integration
-- 🧠 Uses **LLMs with prompt engineering** for deep email understanding
-
-**Built With:** Node.js, Express, Gmail API, OpenRouter (LLM), JavaScript, HTML/CSS
+- 🧑‍💻 **Languages:** C++, Python, Java  
+- 📊 **ML / Data:** PyTorch, Pandas, NumPy, Matplotlib  
+- 🌐 **Web Dev:** HTML, CSS, JavaScript  
+- 🔌 **APIs & Cloud:** Gmail API, OpenRouter, OAuth2, Google Cloud  
+- 🛠️ **Tools:** Git, GitHub, VS Code, Jupyter, Postman
 
 ---
 
-### 📊 GitHub Stats
+### 📬 maileazy.ai – *Smart Mail Assistant*
+
+<p>
+🚀 A Gmail-integrated AI productivity assistant that declutters inboxes for busy professionals.
+</p>
+
+#### 🔍 Features:
+- ✉️ Auto-sorts emails into smart folders like `Meetings`, `Internships`, `Academic`, `Research`, etc.  
+- 🔖 Tags emails with priority – `HIGH`, `MEDIUM`, `LOW`  
+- ⏰ Extracts **deadlines**, dates, and **to-do tasks** from content  
+- 🔐 Uses Gmail API + OAuth2 for secure email access  
+- 🧠 Powered by LLMs + custom prompt engineering (OpenRouter API)
+
+#### 🛠️ Stack:
+`Node.js` · `Express` · `JavaScript` · `Gmail API` · `OpenRouter LLM` · `HTML/CSS`
+
+---
+
+### 🔗 Let’s Connect
+
+- 📧 Email: agarwaldhruv71@gmail.com  
+- 💼 LinkedIn: [Dhruv Agarwal](https://www.linkedin.com/in/dhruvag710/)
+
+---
+
+### ✨ Typing Inspiration
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvag710&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=dhruvag710&theme=radical" width="48%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=440&lines=Keep+Building.;Keep+Learning.;Keep+Contributing.;AI+is+the+Future.;Let's+Build+It+Together." alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Let’s Connect!
+### 🧾 Favorite Quote
 
-- 📧 agarwaldhruv71@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhruvag710/)  
+<div align="center">
 
----
-
-### 🧠 Thought of the Day
-
-```txt
-  “Code is like humor. When you have to explain it, it’s bad.”
-           — Cory House
