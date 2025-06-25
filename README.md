@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv Agarwal</h1>
-<h3 align="center">B.Tech Undergrad | IIIT Nagpur</h3>
+<h3 align="center">B.Tech Undergrad | IIIT Nagpur | AI x Productivity Builder</h3>
 
 <p align="center">
-  🚀 Aspiring Software Developer | 💡 DSA Enthusiast | 🤖 ML Explorer  
+  🚀 Aspiring Software Developer | 💡 DSA Enthusiast | 🤖 Machine Learning Explorer  
 </p>
 
 <p align="center">
@@ -11,55 +11,57 @@
 
 ---
 
-### 🧠 Who Am I?
+### 🧠 About Me
 
-- 🎓 B.Tech student @ **IIIT Nagpur**, fueled by curiosity  
-- 💻 Love solving problems with **DSA** and building **AI-driven tools**  
-- 🤖 Currently working on projects in **LLMs**, **NLP**, and **ML-powered productivity tools**  
-- 🔧 Passionate about turning messy ideas into working code  
-- ✨ Always learning, always building!
+- 🎓 B.Tech CSE @ **IIIT Nagpur** (2023–2027)  
+- 💻 Love building tools that combine **AI + APIs + automation**  
+- 🔢 Strong foundation in **Data Structures & Algorithms**  
+- 🤖 Currently exploring **LLMs, NLP**, and **intelligent productivity systems**  
+- 🧠 ML Intern @ **IIT Bombay**, working on email automation & AI-based classification  
+- 🌱 Always learning, always shipping!
 
 ---
 
-### ⚙️ Tech Arsenal
+### ⚙️ Tech Stack
 
-- 🧑‍💻 **Languages:** C++, Python, Java  
+- 💻 **Languages:** C++, Python, Java  
 - 📊 **ML / Data:** PyTorch, Pandas, NumPy, Matplotlib  
-- 🌐 **Web Dev:** HTML, CSS, JavaScript  
-- 🔌 **APIs & Cloud:** Gmail API, OpenRouter, OAuth2, Google Cloud  
+- 🌐 **Web:** HTML, CSS, JavaScript  
+- 🔌 **APIs / Cloud:** Gmail API, OAuth2, OpenRouter, Google Cloud  
 - 🛠️ **Tools:** Git, GitHub, VS Code, Jupyter, Postman
 
 ---
 
-### 📬 maileazy.ai – *Smart Mail Assistant*
+### 📬 Featured Project – `maileazy.ai`
 
 <p>
-🚀 A Gmail-integrated AI productivity assistant that declutters inboxes for busy professionals.
+✨ A smart Gmail-integrated productivity assistant that helps organize, prioritize, and extract insights from your inbox using LLMs.
 </p>
 
-#### 🔍 Features:
-- ✉️ Auto-sorts emails into smart folders like `Meetings`, `Internships`, `Academic`, `Research`, etc.  
-- 🔖 Tags emails with priority – `HIGH`, `MEDIUM`, `LOW`  
-- ⏰ Extracts **deadlines**, dates, and **to-do tasks** from content  
-- 🔐 Uses Gmail API + OAuth2 for secure email access  
-- 🧠 Powered by LLMs + custom prompt engineering (OpenRouter API)
+#### 🔍 Highlights:
+- 📂 Categorizes emails into folders like `Meetings`, `Academics`, `Internships`, `Research`, etc.  
+- 🚦 Assigns priority levels – `HIGH`, `MEDIUM`, `LOW`  
+- ✅ Extracts **actionable tasks**, **deadlines**, and highlights important info  
+- 🔐 Secured with Gmail API + OAuth2  
+- 🧠 Powered by **LLM logic** and custom **prompt engineering** (via OpenRouter API)  
+- ⚙️ Built with: `Node.js` · `Express.js` · `JavaScript` · `HTML/CSS`
 
-#### 🛠️ Stack:
-`Node.js` · `Express` · `JavaScript` · `Gmail API` · `OpenRouter LLM` · `HTML/CSS`
-
----
-
-### 🔗 Let’s Connect
-
-- 📧 Email: agarwaldhruv71@gmail.com  
-- 💼 LinkedIn: [Dhruv Agarwal](https://www.linkedin.com/in/dhruvag710/)
+> 🔗 [Project Repo](https://github.com/your-username/maileazy.ai)
 
 ---
 
-### ✨ Typing Inspiration
+### 🌐 Let's Connect
+
+- 📧 **Email:** agarwaldhruv71@gmail.com  
+- 💼 **LinkedIn:** [Dhruv Agarwal](https://www.linkedin.com/in/dhruvag710/)  
+- 💻 **GitHub:** [@dhruvag710](https://github.com/dhruvag710)
+
+---
+
+### ⌨️ Typing Inspiration
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=440&lines=Keep+Building.;Keep+Learning.;Keep+Contributing.;AI+is+the+Future.;Let's+Build+It+Together." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=480&lines=Keep+Building.;Keep+Learning.;Keep+Contributing.;AI+is+the+Future.;Let's+Build+It+Together." alt="Typing SVG" />
 </p>
 
 ---
@@ -67,4 +69,7 @@
 ### 🧾 Favorite Quote
 
 <div align="center">
+  <em>"Don't just work on projects. Work on problems worth solving."</em>
+</div>
 
+---
