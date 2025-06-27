@@ -46,7 +46,7 @@
 - 🧠 Powered by **LLM logic** and custom **prompt engineering** (via OpenRouter API)  
 - ⚙️ Built with: `Node.js` · `Express.js` · `JavaScript` · `HTML/CSS`
 
-> 🔗 [Project Repo](https://github.com/your-username/maileazy.ai)
+> 🔗 [Project Repo](https://github.com/dhruvag710/maileazy.ai)
 
 ---
 
